@@ -1,4 +1,4 @@
-# Telebot
+# Telebot [![Build Status](https://travis-ci.org/cortinico/telebot.svg?branch=master)](https://travis-ci.org/cortinico/telebot)
 
 A simple Telegram bot skeleton written in Go.
 
