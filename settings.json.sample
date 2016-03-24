@@ -1,0 +1,5 @@
+{
+	"BotName": "Place your Telegram Bot Name here",
+	"ApiKey" : "Place your Telegram Bot API Key here",
+	"Timeout": "60"
+}
